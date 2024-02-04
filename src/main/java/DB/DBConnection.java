@@ -22,7 +22,7 @@ public class DBConnection {
         // Doi ten database cac thu o day
         String server = "DESKTOP-EV8RQ78\\SQLEXPRESS";
         String port = "1433";
-        String database = "";
+        String database = "1123";
         String user = "sa";
         String password = "123456";
 
